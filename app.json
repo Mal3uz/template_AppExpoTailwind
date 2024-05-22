@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "datingApp",
-    "slug": "datingApp",
+    "name": "Luvlife",
+    "slug": "luvlife",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "luvlife",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
@@ -31,6 +31,7 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "entryPoint": "./app/index.jsx"
   }
 }
